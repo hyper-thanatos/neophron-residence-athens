@@ -2,7 +2,6 @@
 layout: default
 title: Home Neophron Athens
 ---
-
 <!-- Top visual shape -->
 <div class="top-arc"></div>
 
@@ -17,7 +16,7 @@ title: Home Neophron Athens
 <!-- Block 1 -->
 <section class="text-block measure  blobbed blob--lg blob-overlap style-brick ivory">
   <h3>An urban home for calm and focus.</h3>
-  <p>An opportunity in the center of the city.</p>
+  <p>An opportunity in the center of a busy city.</p>
 <img src="{{ site.baseurl }}/assets/img/office-desk.webp" alt="office_desk">
   <!-- CTA for block 1 -->
   <div class="cta-group">
