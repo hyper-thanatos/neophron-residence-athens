@@ -28,7 +28,6 @@ title: Home Neophron Athens
 </section>
 
 
-
 <!-- Block 2 -->
 <section class="text-block measure blobbed blob--md blob-right blob-overlap style-brick ivory">
   <h3>Feel like home.</h3>
