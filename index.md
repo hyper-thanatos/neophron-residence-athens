@@ -17,7 +17,7 @@ title: Home Neophron Athens
 <!-- Block 1 -->
 <section class="text-block measure  blobbed blob--lg blob-overlap style-brick ivory">
   <h3>An urban home for calm and focus.</h3>
-  <p>A unique opportunity for calming focus in the center of a big ancient city.</p>
+  <p>An opportunity for calm and focus in the center of the city.</p>
 <img src="{{ site.baseurl }}/assets/img/office-desk.webp" alt="office_desk">
   <!-- CTA for block 1 -->
   <div class="cta-group">
