@@ -2,14 +2,11 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-ruby gem "github-pages", group: :jekyll_plugins
-
 title: Neophron Residence Athens
 logo: /assets/img/logo.png
-description: "Modern living spaces in the heart of Athens."
+description: "Modern hideaway in central Athens."
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
 include: ["assets"]
 
 url: "https://hyper-thanatos.github.io"

@@ -16,7 +16,7 @@ title: Home Neophron Athens
 <!-- Block 1 -->
 <section class="text-block measure  blobbed blob--lg blob-overlap style-brick ivory">
   <h3>An urban home for calm and focus.</h3>
-  <p>An opportunity in the center of a busy city.</p>
+  <p>A relaxing hideaway in the center of a busy city.</p>
 <img src="{{ site.baseurl }}/assets/img/office-desk.webp" alt="office_desk">
   <!-- CTA for block 1 -->
   <div class="cta-group">
@@ -28,7 +28,7 @@ title: Home Neophron Athens
 
 <!-- Block 2 -->
 <section class="text-block measure blobbed blob--md blob-right blob-overlap style-brick ivory">
-  <h3>Feel like home.</h3>
+  <h3>It feels like a home.</h3>
   <p>Feel like a local, for a while or for a little longer. Enjoy the calmness of the residence and its beautiful surroundings.</p>
 
   <!-- CTA for block 2 -->
